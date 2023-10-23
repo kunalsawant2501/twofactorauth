@@ -18,7 +18,7 @@ For the website frontend code, see [2factorauth/frontend][frontend].
 
 ## Third party usage
 
-We welcome anyone to use our data however we discourage scraping the data directly from this Git repository as changes we make might break your program. 
+We welcome anyone to use our data however we discourage scraping the data directly from this  Git repository as changes we make might break your program. 
 Instead we recommend you use our [API][api].
 
 We provide API access free of charge, however, the project does incur regular bills to maintain. Therefore, if you use the data for commercial purposes, please consider sponsoring us here on [GitHub][sponsor].
