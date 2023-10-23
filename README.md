@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@2faorg-1DA1F2.svg?style=for-the-badge&logo=Twitter)][twitter]
 [![Sponsor](https://img.shields.io/github/sponsors/2factorauth?color=db61a2&logo=GitHub&style=for-the-badge)][sponsor]
 
-[2FA Directory][site_url] is an open source project that aims to improve online security by providing a directory of websites and services that support two-factor authentication (2FA). Our community-driven platform allows anyone to contribute to the list, making it the most comprehensive directory of its kind.
+[2FA Directory][site_url] is an open source project that aims to improve online security by providing a directory of websites and services that support two-factor authentication (2FA). Our community-driven platform allows anyone to contribute to the list, making it the most comprehensive directory of its kind. 
 
 Our hope is that this directory can aid consumers who are deciding between alternative services based on the security they offer for their customers. This project also serves as an indicator of general security efforts used on a site.
 
